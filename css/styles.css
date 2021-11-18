@@ -9,3 +9,30 @@ hr{
   border-width: 5px;
   width: 25%;
 }
+
+a{
+  color: inherit;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #00A0C6;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.name-box{
+  background-color: ghostwhite;
+}
+
+.email-box{
+  background-color: ghostwhite;
+}
+
+.text-area{
+  background-color: ghostwhite;
+}
+
+.header tr td a{
+  target="_blank";
+}
